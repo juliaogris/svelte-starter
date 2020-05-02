@@ -1,0 +1,14 @@
+{
+  "semi": false,
+  "printWidth": 80,
+  "overrides": [
+    {
+      "files": "*.svelte",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ],
+  "svelteSortOrder": "scripts-markup-styles",
+  "htmlWhitespaceSensitivity": "strict"
+}
